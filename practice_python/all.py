@@ -5,7 +5,7 @@ Created on Wed Jan 15 18:38:26 2025
 @author: c.samanja09
 """
 
-inv =["Sword", None, None]
+inv =["Sword", "Stick", "Numchuks"]
 
 if all(inv):
     print('Inventory full!')    
